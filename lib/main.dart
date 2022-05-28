@@ -1,5 +1,6 @@
 // import 'package:fairywala/home.dart';
 // import 'package:fairywala/pages/HomePage.dart';
+import 'package:fairywala/MapScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -30,8 +31,9 @@ class Homepage extends StatefulWidget {
 class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(),
+    return const Scaffold(
+      // appBar: AppBar(),
+      body: MapScreen(),
     );
   }
 }
