@@ -36,6 +36,13 @@ dependencies:
   cloud_firestore: ^3.1.17
   firebase_core: ^1.17.1
   latlong2: ^0.8.1
+  sliding_up_panel: ^2.0.0+1
+  geolocator: ^8.0.1
+  geocoding: ^2.0.1
+  fluttertoast: ^8.0.9
+
+  here_sdk:
+    path: plugins/here_sdk
 
 dev_dependencies:
   flutter_test:
