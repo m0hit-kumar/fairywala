@@ -1,4 +1,5 @@
-import 'package:fairywala/HomePage_.dart';
+import 'package:fairywala/home.dart';
+import 'package:fairywala/pages/HomePage.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 
