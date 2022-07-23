@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143622860758",
+    "project_id": "fairywala",
+    "storage_bucket": "fairywala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143622860758:android:1394c173378b304f6b3e77",
+        "android_client_info": {
+          "package_name": "com.example.fairywala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143622860758-ud4mpa7ghp7kskup4vju4aflheq07p09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_R7YSdHioJc-_NsDRJZLH6j5TPH1x0N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143622860758-ud4mpa7ghp7kskup4vju4aflheq07p09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
