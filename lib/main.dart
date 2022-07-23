@@ -18,7 +18,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Homepage(),
+      // home: Homepage(),
+      home: MapScreen(),
     );
   }
 }
@@ -35,7 +36,7 @@ class _HomepageState extends State<Homepage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: Icon(Icons.close, color: Colors.black),
+        leading: const Icon(Icons.close, color: Colors.black),
         actions: const [
           Padding(
             padding: EdgeInsets.all(8.0),
